@@ -1,5 +1,7 @@
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
 
+<div style="font-style: 'Pretendard'">
+
 # 💻 【GIT-001】 Git Installation
 
 <br />
@@ -16,6 +18,9 @@
 -   <span style="color: #FFFFFF; background-color: #1848D9; font-weight: 700; font-size: 1.2em">&nbsp;&nbsp;깃(Git)&nbsp;&nbsp;</span>
     -   리눅스(Linux)를 창시한 리누스 토르발스(Linus Torvalds)가 2005년 개발한 <span style="font-weight: 700">분산형 버전 관리 시스템(DVCS; Distributed Version Control System)</span>
     -   소프트웨어 개발 과정에서 문서, 설계도, 소스 코드, 파일 등의 변경 내역, 즉 버전(Version)을 추적 · 보존 · 관리하는 소프트웨어
+
+<br />
+
 -   <span style="font-weight: 700; font-size: 1.2em">깃을 사용하는 이유</span>
     -   안정성
         -   깃은 분산형 버전 관리 시스템으로서, 중앙 서버의 데이터가 유실되어도 손쉽게 복구 가능
@@ -37,3 +42,5 @@
     git config --global user.email "example@example.com"
     git config --global user.name "John Doe"
     ```
+
+</div>
