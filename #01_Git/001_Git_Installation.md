@@ -1,19 +1,13 @@
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
 
-<style>
-body {
-    font-family: "Pretendard", sans-serif;
-}
-</style>
-
 # 💻 【GIT-001】 Git Installation
 
 <br />
 
 ## 💠 목차
 
--   <span style="font-weight: 500; font-size: 1.2em">A. [깃과 깃허브](#💠-A.-깃과-깃허브)</span>
--   <span style="font-weight: 500; font-size: 1.2em">C. [깃 초기 설정](#💠-C.-깃-초기-설정)</span>
+-   <span style="font-weight: 500; font-size: 1.2em">A. [깃과 깃허브](#-a-깃과-깃허브)</span>
+-   <span style="font-weight: 500; font-size: 1.2em">C. [깃 초기 설정](#-c-깃-초기-설정)</span>
 
 <br />
 
