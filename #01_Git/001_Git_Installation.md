@@ -1,6 +1,6 @@
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
 
-<div style="font-style: 'Pretendard'">
+<div style="font-family: 'Pretendard'">
 
 # 💻 【GIT-001】 Git Installation
 
